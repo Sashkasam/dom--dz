@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/barqkiadp7pv4f5c?svg=true)](https://ci.appveyor.com/project/Sashkasam/dom-dz)
-![CI](https://github.com/Sashkasam/dom_dz/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/adca8xvwwc61e1fr?svg=true)](https://ci.appveyor.com/project/Sashkasam/dom-dz-9j6hm)
+![CI](https://github.com/Sashkasam/dom--dz/actions/workflows/web.yml/badge.svg)
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
