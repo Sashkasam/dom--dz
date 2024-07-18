@@ -1,0 +1,15 @@
+body {
+    color: #999;
+}
+
+.field {
+    display: flex;
+}
+
+
+
+.cellField {
+    border: 1px solid black;
+    height: 120px;
+    width: 120px;
+}
